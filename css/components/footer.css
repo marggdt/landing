@@ -1,0 +1,29 @@
+.footer {
+    text-align: center;
+    padding: 60px;
+    background-color: #242424;
+}
+
+.footer > p {
+    text-align: center;
+    color:white;
+
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  font-size: 48px;
+  justify-content: center;
+}
+
+ul {
+display: flex;
+padding: 0;
+}
+
+.list-inline > li > a {
+  margin: 0 16px;
+  align-items: center;
+  color:white;
+}
